@@ -1,0 +1,1 @@
+InstantMARK is an automated, multimodal attendance tracking system designed for educational institutions. It replaces manual roll calls with advanced biometric verification, utilizing both Facial Recognition and Voice Activity Detection to register student attendance rapidly and securely
